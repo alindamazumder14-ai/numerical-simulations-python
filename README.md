@@ -15,14 +15,14 @@ This project implements numerical methods for solving ordinary differential equa
 
 ## Example Problems
 
-1. dy/dt = -2y
-2. dx/dt = y
-   dy/dt = -x
+1. dy/dt = -2y  
+2. dx/dt = y  
+   dy/dt = -x  
 
 ## How to Run
 
-pip install -r requirements.txt
-python main.py
+pip install -r requirements.txt  
+python main.py  
 
 ## Author
 Alinda Kumar Mazumder
